@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.clearall{clear:both;}
+input#bp_expiration_date{width: 50%;}
+input#bp_expire_cat_submit{float:right;}
+#category-ajax-response{width: 80%; padding-right:5%;}
+#bp-expire-category-box{min-height: 3em;}
+
+img.ui-datepicker-trigger {
+  vertical-align: middle;
+  padding: 0;
+  margin: 0;
+  height: 24px;
+  width: auto;
+}
