@@ -17,15 +17,17 @@ Expire Category allows users to add a category and expiration date to any Post. 
 == Installation ==
 
 From your WordPress dashboard
+
 1. Visit 'Plugins->Add New'
-1. Search for 'BP Expire Category'
-1. Activate BP Expire Category from your Plugins page
+2. Search for 'BP Expire Category'
+3. Activate BP Expire Category from your Plugins page
 
 From WordPress.org
+
 1. Download BP Expire Category
-1. Extract the folder 'bp-expire-category' to your desktop
-1. Upload the folder 'bp-expire-category' to your '/wp-content/plugins' directory, using your favorite method (ftp, sftp, scp, etc...)
-1. Activate BP Expire Category from your Plugins page. 
+2. Extract the folder 'bp-expire-category' to your desktop
+3. Upload the folder 'bp-expire-category' to your '/wp-content/plugins' directory, using your favorite method (ftp, sftp, scp, etc...)
+4. Activate BP Expire Category from your Plugins page. 
 
 Once Activated
 Go to a edit Post page.  Look for a box on the right called 'Expire Category'.  From the select box, choose a category and then choose a date and time with the datepicker. 
@@ -48,7 +50,10 @@ The expiration function runs when your WordPress installation is accessed.  If y
 
 == Changelog ==
 
-= 0.5 =
+= 0.2 =
+* Updated Readme.txt.
+
+= 0.1 =
 * Initial release.
 
 == Upgrade Notice ==
